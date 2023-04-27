@@ -49,3 +49,9 @@ Please submit both a link to your repository and a link to the live site. Also p
 
 * [Bootstrap Documentation](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 * [Bootstrap Grid System on W3 Schools](https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp)
+
+
+
+I added an outline button for Hamilton Fruit 
+I did a card about Raspberries
+I did a card body at the bottom of the page
